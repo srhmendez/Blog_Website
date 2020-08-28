@@ -34,13 +34,13 @@ header{
         h1{
             margin-top:1rem;
             margin-bottom: 0px;
-            color:white;
+            color:rgb(238, 238, 238);
         }
         h2{
             margin-bottom:40px;
             font-style: oblique;
             font-size: 1.2rem;
-            color:white;
+            color:rgb(238, 238, 238);
         }
     }
     #subheader{
@@ -91,6 +91,7 @@ header{
                 }
                 #rss:hover{
                     color: $rss;
+                    padding-right:10px;
                 }
                 #envelope:hover{
                     color: $mail;
