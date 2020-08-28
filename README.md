@@ -1,3 +1,10 @@
+# [Hello, It's Sarah Mendez. I wanted to link the netlify link where I deployed this website here so you can see it in action!](https://https://jovial-benz-15b62a.netlify.app//) 
+
+
+
+
+
+
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
 ![supports mathjax](https://img.shields.io/badge/Supports-MathJAX-blue)
