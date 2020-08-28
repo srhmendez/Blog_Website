@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great Side Hustles For Web Developers
-image: /assets/img/pexels-pixabay-373076
+image: https://images.pexels.com/photos/4475523/pexels-photo-4475523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 categories: Web_Development
 ---
 ![post.image](https://images.pexels.com/photos/4475523/pexels-photo-4475523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
