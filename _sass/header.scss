@@ -66,6 +66,7 @@ header{
                 display: block;
                 float: right;
                 margin-bottom:2rem;
+                margin-right:20px;
                 i{
                     margin-right: 3px;
                     -o-transition: .5s;
@@ -91,7 +92,6 @@ header{
                 }
                 #rss:hover{
                     color: $rss;
-                    margin-right:10px;
                 }
                 #envelope:hover{
                     color: $mail;
