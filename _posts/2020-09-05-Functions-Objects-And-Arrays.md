@@ -17,7 +17,7 @@ Functions are a "subprogram" that can be called by code. The function has three 
 2. The parameters
 3. The function Statement.
 
-It is possible to do anonymous functions, which are functions without names. they look something like this:
+They look something like this:
 
 >let myFunction = function() {
     statements
