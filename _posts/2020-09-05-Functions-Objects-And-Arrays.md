@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Is JAMStack?
-image: https://snipcart.com/media/204771/jamstack.png
+title: Functions, Objects Arrays Oh My!
+image: https://miro.medium.com/max/1400/1*Ahomp1dXE5Ofb6Fgh_7WDA.jpeg
 categories: Web_Development
 ---
 ![JavaScript](https://miro.medium.com/max/1400/1*Ahomp1dXE5Ofb6Fgh_7WDA.jpeg)
