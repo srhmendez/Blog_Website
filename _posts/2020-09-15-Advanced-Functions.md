@@ -20,14 +20,14 @@ A recursive function can recieve two inputs:
 The example below is a very simple function that gives you a good idea of what a recursive function looks like
 and how it operates.
 
-'''
+```
 def recurse(x):
   if x > 0:
        print(x)
        recurse(x - 1)
 
 recurse(10)
-'''
+```
 
 ## What are Scopes and Closures in Javascript?
 
