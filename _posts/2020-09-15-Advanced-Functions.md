@@ -31,6 +31,7 @@ recurse(10)
 
 ## What are Scopes and Closures in Javascript?
 
+
 ## Why is understanding scopes and closures important?
 
 ## What is the Spread Operator?

@@ -143,9 +143,9 @@ Arrays cannot use strings as element indexes, they must use integers as element 
 ## How are they used and defined?
 
 Arrays are created as shown below: 
-
->let fruits = ['Apple', 'Banana']
-
+```
+let fruits = ['Apple', 'Banana']
+```
 The array is called fruits and the properties are Apple and Banana.
 
 You can access the fruits properties using bracket notation and integers associated with the index of the item that you need.
