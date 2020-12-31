@@ -1,10 +1,18 @@
-# [Hello, It's Sarah Mendez. I wanted to link the netlify link where I deployed this website here so you can see it in action!](https://jovial-benz-15b62a.netlify.app//) 
+# Creating a Blog Website using the Jekyll framework
+
+
+# [Hello, It's Sarah Mendez. This is the netlify link where I deployed this website here so you can see it in action!](https://jovial-benz-15b62a.netlify.app//) 
 
 <br>
 <br>
 <br>
 <br>
 
+
+
+
+
+# Jekyll Theme Information & Credits
 
 
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
