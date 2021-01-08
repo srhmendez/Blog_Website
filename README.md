@@ -1,13 +1,21 @@
 # Creating a Blog Website using the Jekyll framework
 
+[View Project](https://jovial-benz-15b62a.netlify.app//) 
 
-### [Hello, It's Sarah Mendez. This is the netlify link where I deployed this website here so you can see it in action!](https://jovial-benz-15b62a.netlify.app//) 
-
 <br>
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
