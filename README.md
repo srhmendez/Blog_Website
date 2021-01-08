@@ -11,15 +11,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
 # Jekyll Theme Information & Credits
 
 
