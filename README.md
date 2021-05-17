@@ -9,4 +9,4 @@ Here I explored using a framework to quickly build a blog. I then used the blog 
 # Jekyll Theme Information & Credits
 
 
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
+### [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
